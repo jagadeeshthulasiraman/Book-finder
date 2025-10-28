@@ -87,13 +87,6 @@ This project satisfies all levels of the Take-Home Challenge:
 
 ---
 
-##  Screenshots 
-
-## Home Page
-![Home Page](./Screenshot%202025-10-28%20223901.png)
-
-### Search Results
-![Search Results](./Screenshot%202025-10-28%20223929.png)
 
 ---
 
