@@ -2,18 +2,18 @@
 
 Book Finder is a simple React app that helps users search for books using the Open Library API.
 
-## 🚀 Features
+##  Features
 - Search books by title  
 - Display book covers, authors, and published year  
 - Responsive grid layout  
 - Handles loading and errors gracefully  
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - React + Vite
 - Tailwind CSS
 - Open Library API (`https://openlibrary.org/search.json?title={bookTitle}`)
 
-## ⚙️ Run Locally
+##  Run Locally
 ```bash
 npm install
 npm run dev
