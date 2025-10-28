@@ -73,8 +73,8 @@ $ Lightweight, fast, and mobile-friendly interface
 
 This project satisfies all levels of the Take-Home Challenge:
 
-| Level | Requirement | Status |
-|--------|--------------|---------|
+| Level | Requirement | 
+|--------|--------------|
 | **Level 1 (50%)** | Working UI with ChatGPT/AI assistance
 | **Level 2 (30%)** | Proper functionality + deployed link 
 | **Level 3 (20%)** | Shared code with README and notes 
@@ -90,10 +90,10 @@ This project satisfies all levels of the Take-Home Challenge:
 ##  Screenshots 
 
 ## Home Page
-![Home Page](./screenshots/home.png)
+![Home Page](./Screenshot%202025-10-28%20223901.png)
 
 ### Search Results
-![Search Results](./screenshots/result.png)
+![Search Results](./Screenshot%202025-10-28%20223929.png)
 
 ---
 
