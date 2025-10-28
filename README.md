@@ -85,7 +85,7 @@ This project satisfies all levels of the Take-Home Challenge:
 - Responsive design grid  
 - Clean Tailwind styling
 
----
+
 
 
 ---
